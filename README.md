@@ -24,7 +24,7 @@ Hi! I’m Tatiana Lesmes, a system engineering student. I’m passionate about w
 Outside of tech, 💜 I enjoy 🎮 playing video games, 🎵 listening to music, and 📖 reading fantasy books.
 
 
-📫 Reach out to me at: <a href="mailto:tatianalesmes@gmail.com">tatianalesmes@gmail.com
+📫 Reach out to me at: <a href="mailto:tatianalesmes@gmail.com">yennyferlesmes59@gmail.com
 </a>
 
 My Skills Include
