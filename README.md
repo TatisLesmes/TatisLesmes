@@ -6,15 +6,15 @@
 
 Hi! I’m Tatiana Lesmes, a system engineering student. I’m passionate about web development, front-end and back-end programming, and also interested in data analysis, exploring patterns and insights to create smarter solutions. I enjoy learning new technologies and creating projects that are innovative, useful, and fun.
 
-🌱 I’m currently learning:
+🌱 **I’m currently learning:**  
+- ⚡ **Angular**  
+- 🐍 **Python**  
+- 🐘 **PHP**  
+- 🌿 **Vue.js**  
+- 🏗️ **Laravel**  
+- 📊 **Power BI**  
+- 🤖 **Artificial Intelligence (AI)**
 
-Angular
-Python
-PHP
-Vue.js
-Laravel
-PowerBi
-IA
 
 
 👯 I’m excited to collaborate on open-source projects.
