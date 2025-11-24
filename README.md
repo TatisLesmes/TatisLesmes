@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me
 
-Hi! I’m Tatiana Lesmes, a system engineering student. I’m passionate about front-end and back-end development, and also interested in data analysis, exploring patterns and insights to create smarter solutions. I enjoy learning new technologies and creating projects that are innovative, useful, and fun.
+Hi! I’m Tatiana Lesmes, a system engineering student. I’m passionate about web development, front-end and back-end programming, and also interested in data analysis, exploring patterns and insights to create smarter solutions. I enjoy learning new technologies and creating projects that are innovative, useful, and fun.
 
 🌱 I’m currently learning:
 
